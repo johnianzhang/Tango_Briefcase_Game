@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Briefcase!!!</string>
+    <string name="start">START</string>
+    <string name="welcome">Welcome!\nPlease click \"START\" to start the game!</string>
+    <string name="briefcase1">Briefcase 1</string>
+    <string name="briefcase2">Briefcase 2</string>
+    <string name="briefcase3">Briefcase 3</string>
+    <string name="how_to_play">how to play</string>
+    <string name="quit">Quit</string>
+</resources>
