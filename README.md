@@ -1,5 +1,5 @@
 <h1> Tango Briefcase Game Android Project </h1>
-To run this file, you may use either in android studio by import this project, or install the apk package （briefcase_game.apk) to an android phone. 
+To run this file, you may use either in android studio by import this project, or install the apk package (briefcase_game.apk) to an android phone. 
 <br/>
 Android base java code: <a href="https://github.com/johnianzhang/Tango_Briefcase_Game/tree/master/app/src/main/java/com/example/tango_briefcase_game">https://github.com/johnianzhang/Tango_Briefcase_Game/tree/master/app/src/main/java/com/example/tango_briefcase_game</a>
 <br/>
